@@ -1,5 +1,6 @@
 node_modules/
 dist/
+*.tsbuildinfo
 game.db
 game.db-shm
 game.db-wal
